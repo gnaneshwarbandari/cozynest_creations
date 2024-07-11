@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*-----------------------------------------------------------------------------------
 
     Template Name: Start
@@ -21,6 +22,31 @@
 -----------------------------------------------------------------------------------*/
 /*===========================
     1. COMMON css 
+=======
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Start
+    Template URI: UIdeck.com
+    Description: Start | Landing Page for Startup and SaaS Business
+    Author: Uideck
+    Author URI: https://uideck.com/
+    Support: https://uideck.com/support/
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    01. Theme default CSS
+	02. Header
+    03. Hero
+	04. Footer
+
+-----------------------------------------------------------------------------------*/
+/*===========================
+    1. COMMON css 
+>>>>>>> origin/main
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
@@ -140,10 +166,33 @@ p {
   font-weight: 600;
   line-height: 55px;
   color: #121212; }
+<<<<<<< HEAD
+  .col-12 .project-title {
+    font-size: 34px;
+    font-weight: 550;
+    line-height: 45px;
+    color: #121212;
+  text-align: center;
+  text-decoration: underline;
+  margin: 60px 0px 40px 0px; }
+
+  @media (max-width: 767px) {
+    .section-title .title {
+      font-size: 30px;
+      line-height: 40px; }
+      .col-12 .project-title {
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        text-decoration: underline;
+        margin: 50px 0px 30px 0px; } }
+      
+=======
   @media (max-width: 767px) {
     .section-title .title {
       font-size: 30px;
       line-height: 40px; } }
+>>>>>>> origin/main
 
 .section-title .text {
   font-size: 16px;
@@ -151,8 +200,13 @@ p {
   color: #6c6c6c;
   margin-top: 24px; }
 
+<<<<<<< HEAD
 /*===========================
     2.HEADER css 
+=======
+/*===========================
+    2.HEADER css 
+>>>>>>> origin/main
 ===========================*/
 /*===== NAVBAR ONE =====*/
 .navgition {
@@ -424,8 +478,13 @@ p {
     .header-hero .header-shape img {
       width: 100%; }
 
+<<<<<<< HEAD
 /*===========================
       3.SERVICES css 
+=======
+/*===========================
+      3.SERVICES css 
+>>>>>>> origin/main
 ===========================*/
 .services-area {
   padding-top: 120px;
@@ -459,6 +518,10 @@ p {
     font-weight: 500;
     line-height: 30px;
     color: #121212; }
+<<<<<<< HEAD
+    
+=======
+>>>>>>> origin/main
   .services-content .services-content .text {
     font-size: 14px;
     line-height: 20px;
@@ -505,8 +568,13 @@ p {
     .services-image .image img {
       width: 100%; }
 
+<<<<<<< HEAD
 /*===========================
       4.PRICING css 
+=======
+/*===========================
+      4.PRICING css 
+>>>>>>> origin/main
 ===========================*/
 .pricing-area {
   padding-top: 120px;
@@ -643,8 +711,13 @@ p {
   .single-pricing.enterprise .pricing-flower img {
     width: 100%; }
 
+<<<<<<< HEAD
 /*===========================
     5.CALL TO ACTION css 
+=======
+/*===========================
+    5.CALL TO ACTION css 
+>>>>>>> origin/main
 ===========================*/
 .call-to-action {
   background-color: #0067f4;
@@ -756,8 +829,13 @@ p {
         background-color: #005ad5;
         color: #fff; }
 
+<<<<<<< HEAD
 /*===========================
     6.CALL TO ACTION css 
+=======
+/*===========================
+    6.CALL TO ACTION css 
+>>>>>>> origin/main
 ===========================*/
 .contact-area {
   padding-top: 120px;
@@ -830,8 +908,13 @@ p.form-message.error {
   margin-top: 5px;
   color: #f00; }
 
+<<<<<<< HEAD
 /*===========================
        7.FOOTER css 
+=======
+/*===========================
+       7.FOOTER css 
+>>>>>>> origin/main
 ===========================*/
 .footer-area {
   background-color: #f4f6f7; }
