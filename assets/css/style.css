@@ -140,11 +140,11 @@ p {
   font-weight: 600;
   line-height: 55px;
   color: #121212; }
-  .col-12 .project-title {
-    font-size: 34px;
-    font-weight: 550;
-    line-height: 45px;
-    color: #121212;
+#project-title {
+  font-size: 34px;
+  font-weight: 550;
+  line-height: 45px;
+  color: #121212;
   text-align: center;
   text-decoration: underline;
   margin: 60px 0px 40px 0px; }
@@ -153,7 +153,7 @@ p {
     .section-title .title {
       font-size: 30px;
       line-height: 40px; }
-      .col-12 .project-title {
+    #project-title {
         font-size: 16px;
         line-height: 30px;
         text-align: center;
